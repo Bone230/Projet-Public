@@ -2,11 +2,19 @@
 
 #include <iostream>
 #include <iomanip>
+#include <map>
 using namespace std;
 
+void verbe_regulier()
+{
 
-//string participePasse(string verbe) 
-//{
 
 
-//}
+
+}
+
+string participePasse(string& verbe) 
+{
+
+
+}
